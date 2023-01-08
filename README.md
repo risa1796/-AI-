@@ -28,4 +28,4 @@ https://dacon.io/competitions/official/236046/overview/description
 또한 실험 환경에서 촬영된 이미지가 학습 데이터로 주어지며, 평가(테스트 데이터)는 실제 환경에서 촬영된 이미지로 이루어집니다.
 
 
-데이콘에서 베이스라인 코드를 제공함. ->  baseline code.ipynb
+*** 데이콘에서 베이스라인 코드를 제공함. ->  baseline_code.ipynb
