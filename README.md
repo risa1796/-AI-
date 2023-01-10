@@ -30,4 +30,4 @@ https://dacon.io/competitions/official/236046/overview/description
 
 
 
-*** 데이콘에서 베이스라인 코드를 제공함. ->  baseline_code.ipynb
+*** 데이콘에서 베이스라인 코드를 제공함. ->  baseline_code.ipynb -> 75% 정확도
